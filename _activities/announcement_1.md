@@ -4,4 +4,4 @@ inline: true
 related_posts: false
 ---
 - Attended CVPR 2022 (New Orleans, US, Jun), CVPR 2023 (Van, CA, Jun) with [DEI](https://cvpr2023.thecvf.com/public/DiversityInclusion) travel grant
-- Reviewed CVPR 2023, NeurIPS 2023
+- Reviewed CVPR 2023, NeurIPS 2023, ICCVW 2023
