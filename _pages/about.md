@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Glory Rongyu Chen's Homepage
+title: Glory Rongyu CHEN's Homepage
 permalink: /
-subtitle: <a href='https://www.comp.nus.edu.sg/'>National University of Singapore</a>. <a href="mailto:rchen@u.nus.edu">rchen@u.nus.edu</a>, glorychen14@gmail.com.
+subtitle: <a href='https://www.comp.nus.edu.sg/'>School of Computing, National University of Singapore</a>. <a href="mailto:rchen@u.nus.edu">rchen@u.nus.edu</a>, glorychen14@gmail.com.
 # Moto. Etc.
 
 profile:
@@ -28,7 +28,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Rongyu Chen is a Ph.D. candidate of Computer Science at the [Computer Vision &amp; Machine Learning (CVML) Group@National University of Singapore (NUS)](https://cvml.comp.nus.edu.sg/), fortunately advised by [Dr. Angela Yao](https://www.comp.nus.edu.sg/~ayao/). He is also mentored by [Dr. Linlin Yang](https://www.mu4yang.com/). His research interests include,
+Rongyu Chen is a Ph.D. candidate of Computer Science at the [Computer Vision &amp; Machine Learning (CVML) Group@National University of Singapore, School of Computing (NUS SoC)](https://cvml.comp.nus.edu.sg/), fortunately advised by [Dr. Angela Yao](https://www.comp.nus.edu.sg/~ayao/). He is also mentored by [Dr. Linlin Yang](https://www.mu4yang.com/). His research interests include,
 
 - Probabilistic Modeling
 - Generative Models
