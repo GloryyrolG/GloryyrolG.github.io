@@ -32,6 +32,7 @@ Rongyu Chen is a Ph.D. candidate of Computer Science at the [Computer Vision &am
 
 - Probabilistic Modeling
 - Generative Models
-- Pose and Shape Estimation applications.
+- Pose & Shape Estimation applications
+- 3D Reconstruction & Rendering.
 
 He is open to any discussions and collaboration:)
