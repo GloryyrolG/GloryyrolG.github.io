@@ -6,13 +6,17 @@
         {%- if entry.preview -%}
           {% if entry.preview contains '://' -%}
           <img data-zoomable class="preview z-depth-1 rounded" src="{{ entry.preview }}">
+          <!-- style="width: 100%; height: auto;"> -->
           {%- else -%}
             {%- assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' -%}
             {% include figure.html
             path=entry_path
             class="preview z-depth-1 rounded"
             zoomable=true
+            loading="eager"
             alt=entry.preview -%}
+            <!-- style="width: 100%; height: auto;" -%} -->
+            <!-- sizes="750px" -%} -->
           {%- endif -%}
         {%- elsif entry.abbr -%}
           {%- if site.data.venues[entry.abbr] -%}
@@ -233,5 +237,7 @@
             {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
           </div>
           {%- endif %}
+
+          <div class="tldr">{{entry.tldr}}</div>
         </div>
       </div>
