@@ -31,7 +31,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 Rongyu Chen is a Ph.D. candidate of Computer Science at the [Computer Vision &amp; Machine Learning (CVML) Group@National University of Singapore, School of Computing (NUS SoC)](https://cvml.comp.nus.edu.sg/), fortunately advised by [Dr. Angela Yao](https://www.comp.nus.edu.sg/~ayao/). He is also mentored by [Dr. Linlin Yang](https://www.mu4yang.com/). His research interests include,
 
 - Probabilistic Modeling
-- Generative Models
+- Generative Models; AI Generated Content
 - Pose & Shape Estimation applications
 - 3D Reconstruction & Rendering.
 
